@@ -19,7 +19,8 @@ I'm a passionate frontend developer, eager to build beautiful and functional web
 
 ### [Debit Card UI](https://github.com/Benson-Jamie/debit-card-ui)
 A stylish debit card component built with HTML and CSS.  
-![Debit Card Screenshot](https://github.com/Benson-Jamie/debit-card-ui/blob/main/images/debit-card-screenshot.png?raw=true)
+![ATM Debit Card Screenshot](https://github.com/Benson-Jamie/debit-card-ui/blob/main/ATM-screenshot.png?raw=true)
+![ATM Debit Card Back Screenshot](https://github.com/Benson-Jamie/debit-card-ui/blob/main/ATM-back-screenshot.png?raw=true)
 
 > *Modern, responsive design with custom CSS.*
 
