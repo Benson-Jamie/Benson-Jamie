@@ -26,10 +26,9 @@ A stylish debit card component built with HTML and CSS.
 
 ---
 
-### [Login Form UI](https://github.com/Benson-Jamie/login-signup-form-ui)
-Clean, responsive login page with HTML and CSS.  
+### [Login Signup Form UI](https://github.com/Benson-Jamie/login-signup-form-ui)
+Clean, responsive login and signup page with HTML and CSS and JS.
 ![Login Screenshot](https://github.com/Benson-Jamie/login-form-ui/blob/main/images/login-screenshot.png?raw=true)
-
 ![Signup Screenshot](https://github.com/Benson-Jamie/login-form-ui/blob/main/images/signup-screenshot.png?raw=true)
 
 ---
