@@ -26,9 +26,11 @@ A stylish debit card component built with HTML and CSS.
 
 ---
 
-### [Login Form UI](https://github.com/Benson-Jamie/login-form-ui)
+### [Login Form UI](https://github.com/Benson-Jamie/login-signup-form-ui)
 Clean, responsive login page with HTML and CSS.  
 ![Login Screenshot](https://github.com/Benson-Jamie/login-form-ui/blob/main/images/login-screenshot.png?raw=true)
+
+![Signup Screenshot](https://github.com/Benson-Jamie/login-form-ui/blob/main/images/signup-screenshot.png?raw=true)
 
 ---
 
@@ -49,6 +51,7 @@ Fetches and displays weather data using a public API with a React frontend.
 ## 📚 What I'm Currently Learning
 
 - Advanced React (Hooks, Context API)
+- Backend development 
 - Working with APIs and JSON
 - Deploying sites with Netlify & Vercel
 - Git best practices
